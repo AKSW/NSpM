@@ -3,7 +3,7 @@ astor==0.8.1
 backports.functools-lru-cache==1.6.1
 backports.weakref==1.0rc1
 beautifulsoup4==4.8.2
-bleach==3.1.4
+bleach==3.3.0
 enum34==1.1.9
 funcsigs==1.0.2
 gast==0.2.2
